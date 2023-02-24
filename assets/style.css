@@ -15,7 +15,7 @@ body {
     width: 80%;
     margin-top: 10%;
     fill: transparent;
-    animation: lett-preenchimento 0.5s ease-in forwards 3s;
+    animation: lett-preenchimento 0.5s ease-in forwards 4s;
 }
 
 .lett-header path {
@@ -23,7 +23,7 @@ body {
     stroke: #be253f;
     stroke-dasharray: 3000;
     stroke-dashoffset: 3000;
-    animation: lett-tracado 5s ease-in forwards 5s;
+    animation: lett-tracado 5s ease-in forwards 1s;
 }
 
 @keyframes lett-preenchimento {
