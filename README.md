@@ -1,17 +1,8 @@
-# Nome do meu projeto
+# Projeto Verão
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de prática com foco na animação de SVG's exportados diretamente do Illustrator.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Você pode acessar o projeto completo em: 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Sem título](https://user-images.githubusercontent.com/95857175/221897768-3a1ae9ce-3979-467a-b917-792caab9d886.png#vitrinedev)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
