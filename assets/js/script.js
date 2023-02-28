@@ -1,5 +1,6 @@
 import { Cards } from './cards.js'
 import { Icones } from './icones.js'
+import { Footer } from './footer.js';
 
 window.onload = () => {
 
@@ -8,4 +9,7 @@ window.onload = () => {
 
     const icones = new Icones();
     icones.animaIcones();
+
+    const footer = new Footer();
+    footer.efeitoOnda();
 }
